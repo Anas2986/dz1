@@ -6,12 +6,47 @@
   <component name="ChangeListManager">
     <list default="true" id="1c089dec-c303-4669-8658-6fb6c93ec0d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lessons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lessons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/home_works.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/home_works.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lesson.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lessons.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/lessons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/project_program_for_students.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/css/card_css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/css/core.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/css/home_works.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/css/lessons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/css/monster.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/data/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/js/card_js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/js/home_works.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/js/lesson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/js/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/js/monster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/pages/card_html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/pages/home_works.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/pages/lessons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/pages/monster.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/server.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,9 +61,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,7 +86,10 @@
       <workItem from="1714824974075" duration="1951000" />
       <workItem from="1715430150305" duration="6000" />
       <workItem from="1715430178873" duration="2341000" />
-      <workItem from="1715433004115" duration="4062000" />
+      <workItem from="1715433004115" duration="4243000" />
+      <workItem from="1715705607003" duration="1716000" />
+      <workItem from="1715770823686" duration="525000" />
+      <workItem from="1715776859647" duration="1271000" />
     </task>
     <servers />
   </component>
